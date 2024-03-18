@@ -1,0 +1,3 @@
+const CLIENT_ID = "f4e7e68beae347e492ba2c6019582af4";
+const CLIENT_SECRET = "cff8a4effe144e5c8bc9651446a32444";
+export {CLIENT_ID,CLIENT_SECRET}
